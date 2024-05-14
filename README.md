@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README file for your project. You can customize it further based on additional details or specific instructions for users.
-
----
-
 # Resume Builder App
 
 This web application allows users to create and customize their resumes effortlessly. Users can input information for various sections, including basic information, work experience, projects, education, achievements, summary, and other details. The application provides a user-friendly editor interface and generates a visually appealing resume that users can download.
